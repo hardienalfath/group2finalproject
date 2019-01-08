@@ -1,0 +1,20 @@
+<layer>
+  <name>L090102_ComuneMilano</name>
+  <id>LayerInfoImpl--1f8f2735:167fad1ef2b:-7ff6</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-1c56943:1681d64049c:-7fdc</id>
+  </defaultStyle>
+  <styles class="linked-hash-set">
+    <style>
+      <id>StyleInfoImpl--3765a4dc:16735f5522a:-7ffc</id>
+    </style>
+  </styles>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--1f8f2735:167fad1ef2b:-7ff7</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+</layer>

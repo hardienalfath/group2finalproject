@@ -1,0 +1,64 @@
+<featureType>
+  <id>FeatureTypeInfoImpl--1f8f2735:167fad1ef2b:-7ff7</id>
+  <name>L090102_ComuneMilano</name>
+  <nativeName>L090102_ComuneMilano</nativeName>
+  <namespace>
+    <id>NamespaceInfoImpl--1f8f2735:167fad1ef2b:-7ffe</id>
+  </namespace>
+  <title>L090102_ComuneMilano</title>
+  <keywords>
+    <string>features</string>
+    <string>L090102_ComuneMilano</string>
+  </keywords>
+  <nativeCRS class="projected">PROJCS[&quot;RDN2008 / TM32&quot;, &#xd;
+  GEOGCS[&quot;RDN2008&quot;, &#xd;
+    DATUM[&quot;Rete Dinamica Nazionale 2008&quot;, &#xd;
+      SPHEROID[&quot;GRS 1980&quot;, 6378137.0, 298.257222101, AUTHORITY[&quot;EPSG&quot;,&quot;7019&quot;]], &#xd;
+      TOWGS84[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], &#xd;
+      AUTHORITY[&quot;EPSG&quot;,&quot;1132&quot;]], &#xd;
+    PRIMEM[&quot;Greenwich&quot;, 0.0, AUTHORITY[&quot;EPSG&quot;,&quot;8901&quot;]], &#xd;
+    UNIT[&quot;degree&quot;, 0.017453292519943295], &#xd;
+    AXIS[&quot;Geodetic longitude&quot;, EAST], &#xd;
+    AXIS[&quot;Geodetic latitude&quot;, NORTH], &#xd;
+    AUTHORITY[&quot;EPSG&quot;,&quot;6706&quot;]], &#xd;
+  PROJECTION[&quot;Transverse_Mercator&quot;], &#xd;
+  PARAMETER[&quot;central_meridian&quot;, 9.0], &#xd;
+  PARAMETER[&quot;latitude_of_origin&quot;, 0.0], &#xd;
+  PARAMETER[&quot;scale_factor&quot;, 0.9996], &#xd;
+  PARAMETER[&quot;false_easting&quot;, 500000.0], &#xd;
+  PARAMETER[&quot;false_northing&quot;, 0.0], &#xd;
+  UNIT[&quot;m&quot;, 1.0], &#xd;
+  AXIS[&quot;Easting&quot;, EAST], &#xd;
+  AXIS[&quot;Northing&quot;, NORTH], &#xd;
+  AUTHORITY[&quot;EPSG&quot;,&quot;6707&quot;]]</nativeCRS>
+  <srs>EPSG:6707</srs>
+  <nativeBoundingBox>
+    <minx>503175.9149074987</minx>
+    <maxx>521717.0059470272</maxx>
+    <miny>5025930.136476274</miny>
+    <maxy>5042505.1073957225</maxy>
+    <crs class="projected">EPSG:6707</crs>
+  </nativeBoundingBox>
+  <latLonBoundingBox>
+    <minx>9.040569615157258</minx>
+    <maxx>9.278147334245519</maxx>
+    <miny>45.386550409694244</miny>
+    <maxy>45.536074623629844</maxy>
+    <crs>EPSG:4326</crs>
+  </latLonBoundingBox>
+  <projectionPolicy>FORCE_DECLARED</projectionPolicy>
+  <enabled>true</enabled>
+  <metadata>
+    <entry key="cachingEnabled">false</entry>
+  </metadata>
+  <store class="dataStore">
+    <id>DataStoreInfoImpl--1f8f2735:167fad1ef2b:-7ff9</id>
+  </store>
+  <maxFeatures>0</maxFeatures>
+  <numDecimals>0</numDecimals>
+  <padWithZeros>false</padWithZeros>
+  <forcedDecimal>false</forcedDecimal>
+  <overridingServiceSRS>false</overridingServiceSRS>
+  <skipNumberMatched>false</skipNumberMatched>
+  <circularArcPresent>false</circularArcPresent>
+</featureType>

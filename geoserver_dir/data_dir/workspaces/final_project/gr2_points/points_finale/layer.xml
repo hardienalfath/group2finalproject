@@ -1,0 +1,20 @@
+<layer>
+  <name>points_finale</name>
+  <id>LayerInfoImpl-2fc63800:167ff74f4b3:-7ff9</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-7bf6a35e:1680f483534:-7ff4</id>
+  </defaultStyle>
+  <styles class="linked-hash-set">
+    <style>
+      <id>StyleInfoImpl-7bf6a35e:1680f483534:-7ff4</id>
+    </style>
+  </styles>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-2fc63800:167ff74f4b3:-7ffa</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+</layer>

@@ -1,0 +1,22 @@
+<dataStore>
+  <id>DataStoreInfoImpl-2fc63800:167ff74f4b3:-7fff</id>
+  <name>boundary_group2</name>
+  <type>Shapefile</type>
+  <enabled>true</enabled>
+  <workspace>
+    <id>WorkspaceInfoImpl--1f8f2735:167fad1ef2b:-7fff</id>
+  </workspace>
+  <connectionParameters>
+    <entry key="charset">ISO-8859-1</entry>
+    <entry key="filetype">shapefile</entry>
+    <entry key="create spatial index">true</entry>
+    <entry key="memory mapped buffer">false</entry>
+    <entry key="timezone">Europe/Rome</entry>
+    <entry key="enable spatial index">true</entry>
+    <entry key="namespace">finalgis</entry>
+    <entry key="cache and reuse memory maps">true</entry>
+    <entry key="url">file://D:\Shared Folder OSGEO\FINAL PROJECT\taruh sini dulu\Borders_Group2.shp</entry>
+    <entry key="fstype">shape</entry>
+  </connectionParameters>
+  <__default>false</__default>
+</dataStore>

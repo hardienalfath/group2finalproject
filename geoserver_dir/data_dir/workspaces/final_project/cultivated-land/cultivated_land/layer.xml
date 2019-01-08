@@ -1,0 +1,15 @@
+<layer>
+  <name>cultivated_land</name>
+  <id>LayerInfoImpl-1c56943:1681d64049c:-7ff7</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-1c56943:1681d64049c:-7fe5</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-1c56943:1681d64049c:-7ff8</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+</layer>

@@ -1,0 +1,15 @@
+<layer>
+  <name>geotiff_coverage</name>
+  <id>LayerInfoImpl-7bf6a35e:1680f483534:-7ff7</id>
+  <type>RASTER</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--570ae188:124761b8d78:-7fe2</id>
+  </defaultStyle>
+  <resource class="coverage">
+    <id>CoverageInfoImpl-7bf6a35e:1680f483534:-7ff8</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+</layer>
